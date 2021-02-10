@@ -1,0 +1,12 @@
+[warning] ueval PageRank (Total Iteration: 82) [1380ms choose block 97.850867ms, pure run 1282.149133 ms: [compute 463.780819 ms load 959.2785 ms, produce vertices 149.477479 ms, keep block 0 ms]
+[info] ueval Peak memory: 447.9MB
+[warning] ueval PageRank (Total Iteration: 82) [1467ms choose block 135.194733ms, pure run 1331.805267 ms: [compute 465.622734 ms load 1002.344184 ms, produce vertices 182.227692 ms, keep block 0 ms]
+[info] ueval Peak memory: 446.6MB
+[warning] ueval PageRank (Total Iteration: 82) [1700ms choose block 166.501088ms, pure run 1533.498912 ms: [compute 472.858818 ms load 1090.339139 ms, produce vertices 235.148479 ms, keep block 0 ms]
+[info] ueval Peak memory: 454.8MB
+[warning] ueval PageRank (Total Iteration: 82) [1412ms choose block 106.074566ms, pure run 1305.925434 ms: [compute 452.764836 ms load 1001.859713 ms, produce vertices 162.30931 ms, keep block 0 ms]
+[info] ueval Peak memory: 439.6MB
+[warning] ueval PageRank (Total Iteration: 82) [1632ms choose block 169.251943ms, pure run 1462.748057 ms: [compute 483.64057 ms load 1057.81185 ms, produce vertices 261.712195 ms, keep block 0 ms]
+[info] ueval Peak memory: 446.1MB
+[warning] ueval PageRank (Total Iteration: 82) [1446ms choose block 70.902979ms, pure run 1375.097021 ms: [compute 467.038783 ms load 1039.47876 ms, produce vertices 163.767921 ms, keep block 0 ms]
+[info] ueval Peak memory: 448.9MB
